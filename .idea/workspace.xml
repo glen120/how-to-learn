@@ -41,6 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,6 +56,12 @@
       <workItem from="1668078275392" duration="467000" />
       <workItem from="1668080066725" duration="8911000" />
       <workItem from="1668094063817" duration="16225000" />
+      <workItem from="1668111154827" duration="433000" />
+      <workItem from="1668167620472" duration="6549000" />
+      <workItem from="1668259573504" duration="14415000" />
+      <workItem from="1668352577063" duration="10873000" />
+      <workItem from="1668364684815" duration="12762000" />
+      <workItem from="1668411542798" duration="2740000" />
     </task>
     <servers />
   </component>
@@ -82,6 +89,10 @@
       <screen x="0" y="0" width="1400" height="1010" />
     </state>
     <state x="479" y="246" key="FileChooserDialogImpl/0.0.1400.1010@0.0.1400.1010" timestamp="1668080541577" />
+    <state x="201" y="136" key="SettingsEditor" timestamp="1668364767136">
+      <screen x="0" y="0" width="1400" height="1010" />
+    </state>
+    <state x="201" y="136" key="SettingsEditor/0.0.1400.1010@0.0.1400.1010" timestamp="1668364767136" />
     <state x="363" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1668107956950">
       <screen x="0" y="0" width="1400" height="1010" />
     </state>
